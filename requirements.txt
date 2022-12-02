@@ -1,1 +1,2 @@
-discord.py-self
+git+https://github.com/dolfies/discord.py-self@aff2d40c200a6b2304d85f655b48de810bed56d6#egg=discord.py-self
+

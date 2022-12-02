@@ -49,5 +49,3 @@
 More info on how to get your token can be found here:
 
 https://www.androidauthority.com/get-discord-token-3149920/
-
-
